@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spinner_all_padding">16dp</dimen>
+    <dimen name="item_margin_all">8dp</dimen>
+    <dimen name="team_badge_dimension">56dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="image_detail_badge">72dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+</resources>
